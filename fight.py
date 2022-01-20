@@ -104,7 +104,7 @@ class Fight:
         self.number_of_attak_your_hero = str(randint(1, 10))
 
     def turn_enemy(self):
-        pass
+        self.attack = 0
 
     def start_fight(self):
         while True:
