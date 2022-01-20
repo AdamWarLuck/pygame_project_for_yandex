@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "project_for_yandex", "project_for_yandex.pyproj", "{5F947801-6DF8-459C-BA8A-2AE449FB6E2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F947801-6DF8-459C-BA8A-2AE449FB6E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F947801-6DF8-459C-BA8A-2AE449FB6E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C8ADF8F-2CE8-4FC7-9616-BC700DC27B3D}
+	EndGlobalSection
+EndGlobal
