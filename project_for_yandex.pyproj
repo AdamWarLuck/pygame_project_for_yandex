@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5f947801-6df8-459c-ba8a-2ae449fb6e2d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>fight.py</StartupFile>
+    <StartupFile>game.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,17 +28,19 @@
     <Compile Include="maps.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="module1.py">
+    <Compile Include="start.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="fight.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="project_for_yandex.py" />
+    <Compile Include="end.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="settings.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="test.py" />
+    <Compile Include="game.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

@@ -16,6 +16,7 @@ class Settings:
 
     proportions_of_knight_in_fight: tuple = (350, 300)
     proportions_knight_in_fight: tuple = (10, 300)
+    proportions_knight_in_fight_on_bridge: tuple = (10, 210)
 
     proportions_of_ent_in_fight: tuple = (350, 380)
     proportions_ent_in_fight: tuple = (500, 250)
